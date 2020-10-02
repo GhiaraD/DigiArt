@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\60cf9c4d2dd82aa2d106172f5b134a00ac25e478\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1a32a39a9fcae3d354a312cdb78c18159fa702e6">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_87be63e3a51230cd42d1f9863269db3698156eea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\f624af97c97895398073de092a0153cff7c58566\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_b4169626e8e4e75f4ad4eba1d6b58f66c6b4876c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\a491cac426a8f4472d49aeea70a6367d7180d52b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_04468386dae581aa122145799f0b9e7d13b76e1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_371d4d1f9821ab145bd25413848f495e529297dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\ad3114bdda85ffb08c76150f38c02b2d7cb0f3f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_5821380043f4db19a14af55b9c9c5590aec4d373.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\4764d0a4da975a7d0576b53507fc0ef63f673bf9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_9ae9e2c366f92ea9288827c7c888f41f24c2ae25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.1.0\2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1\rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\rxjava-2.1.0_d5f91acc96ab1308cd9546231f8eb522ec049163.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\6751b8cd31bbab49783ed58d76781b87401bc57a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_dd942a602525be7eddef269e558b884483fca0ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\8f12ec37569b58c66075e16609e467690829cbad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_3d5a984055d25db69062741fd479db18dbfbaf4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\8958efb195909f70b2c1f33f04b3cb11f29e03fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_288d4b5bbc6c186d6d92fc505dc99fcf53ddea85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\5ebe4eb4f7e8fbb9afd1a779c9c62cb9aa58a63a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a6b765967c8091ebb45f2c02972a2fa9cba5dd87">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_5e9599c9d932154ce38c837f52ac218a5b676417.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\3c9b79e04a12b781f06487345df0cadd27d14514\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_7371617f14abb4334bb1f2ad0d571cc16ad9198d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\a0337945e4e1decb0318acdd056a797c3a81db53\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_ab2a483f41527dc81d6534737ae7a7edb6964223.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\c85d4cdd6c53d1fbbd7434b1db14088862118777\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_10568b3e7ce407b98d23a9b760f2efb7c6126e87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\07366cb1933d04d78bcd75e1e643f1a6b0879c6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_e717bc0f54f6e0815f78ec0f1c1dd0ee5fb04bdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_173fe5c5fcf328f8a00e4dfc9b3efdb693a73fb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\reactive-streams-1.0.0_232cee7b7763263f3e23ad3ec0fe14ec62294190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\f02a11029e6448b576f5aaf5f655c3bd251ae734\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_cb1f78935c83c89dafe1bae15530e908e1fd4e24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\363c820c0256ae2016dae0baef8cc75e1ff36829\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_2bdeb87e627a612fe07dcddb3e015cd47231fa8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\5bdc620f12aee5a40484cb051f3884f95daabb9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_22ca68d723eae167727dd310fe56b5a560be25bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\ef21df3899c6ed9a7cfb4c8b6ba48b52f5692eab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_164c98869f8a398d281957ed74053aca0f1ad21f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\4d55adb60a717c152a969b08959b14ec3ea15e59\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_73aaf61bd462f8143b43233475381da4f6082b99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\a4097b1683cd09c7810629440082bcfcaa84270b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_fe71d61f132b73ff52cbfb331f3629ed9bf88128.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\b2d3bc783b65dd9471f1f6f838055df618ddd793\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_588c7c0b1dc14e8069bf80ab3390430cdeb9f127.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\c6c2a57ef79f8fd85557ebe380013b94b7ddcc6e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_11fc44621760877c0ca06fc06c352a795b41c460.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\629bcc172e726b657bf2362606a31b14c69104b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_7cc02a69b2753922551b179e9d852cf45082cc31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_91e73f768149a199ef57aa46bc875051b787af75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\6e377777db860b30ade7b9bb45ae8978d589070f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_dd43e5554ece800dacd83f2ed8372d94121a6eb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\3154c0b08fd821222520cfde022abd0839b28321\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_88a8487a9915743d40d7210bb5eadc5070e9cdef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\816d144d7fc8690a9a3cef628c9e5f587d4b388d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_68abfd1603eb3970d7c843ff7203bd3c49b4b3f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\bebe2d4dd8e1d37ef586a0c8efa41ad6d492f94b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_94f9f014db4e887ccf1be249bdd502f6800ab869.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\bc98dc6208748adb3496e4445a5d503d1875fc94\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="acb0b23366d6d35b86d6564fcabf3a2ef439f9af">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_1a8052bcb0ba76b7147742d18ef9449f540f3f30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\b405823cf1dd89258c0c1fdf74800a1ba7373ca8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_6f89a659e5f7b06b9de6aa326528dc8fc2b216fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\e345c4c70ca4ab9b41d4cbd11377d12d9aa6714a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_9eed6a5fba4f5dafdd6892d0bf1fc6b558a2c3e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\dragos\.android\build-cache\f290a4b026567078941a26f5980041784c6ca68b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b1555196d65ffa1174f6f49efb2f278905f537a">
+        <dex dex="D:\AndroidProjects\Cruciada\app\build\intermediates\pre-dexed\debug\classes_7b30ff5bcee74096cddbbf4293ec3e587f37c710.jar" />
+    </item>
+
+</items>

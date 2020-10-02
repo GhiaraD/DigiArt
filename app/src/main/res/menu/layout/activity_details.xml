@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailsActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nume concurs:"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nume"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:textSize="25sp"
+            android:textColor="#000000"
+            android:id="@+id/concurs"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Descriere concurs:"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Fara descriere"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:textSize="25sp"
+            android:textColor="#000000"
+            android:id="@+id/descriere"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Creatorul concursului:"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Nume creator"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:textSize="25sp"
+            android:textColor="#000000"
+            android:id="@+id/creator"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Statusul tau:"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Concurent"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:textSize="25sp"
+            android:textColor="#000000"
+            android:id="@+id/status"/>
+
+    </LinearLayout>
+
+</LinearLayout>
